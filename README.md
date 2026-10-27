@@ -1,11 +1,11 @@
-# Week 1 linux lab exercise
+# Week 1 Linux Lab Exercise
 
-For this exercise I used the following linux commands exercise:
+For this exercise, I used the following Linux commands:  
 
--mkdir -p ~/cloud-devops/week1: to make a directory called cloud-devops and another directory called week1 inside the first directory.
--cd ~/cloud-devops/week1: to change into the newly created directory
--echo "This is some sample text for my DevOps notes." > notes.txt: to create a file called "notes.txt" and add some text to it
--mkdir scripts: to make another directory called scripts
--mv notes.txt scripts/: to move the notes.txt into the directory scripts
+- `mkdir -p ~/cloud-devops/week1`: To make a directory called `cloud-devops` and another directory called `week1` inside it.  
+- `cd ~/cloud-devops/week1`: To change into the newly created directory.  
+- `echo "This is some sample text for my DevOps notes." > notes.txt`: To create a file called `notes.txt` and add text to it.  
+- `mkdir scripts`: To make another directory called `scripts`.  
+- `mv notes.txt scripts/`: To move the `notes.txt` file into the `scripts` directory.  
 
 The implementation inside my terminal is provided in the screenshot picture uploaded in this repo.
